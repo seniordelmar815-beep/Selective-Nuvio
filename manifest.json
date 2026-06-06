@@ -213,16 +213,16 @@
       "contentLanguage": ["en", "hi", "ar"]
     },
     {
-      "id": "cinestream",
-      "name": "CineStream",
+      "id": "cinetv",
+      "name": "CineTV",
       "description": "Multi Language Provider",
       "version": "1.0.0",
-      "author": "Kabir",
+      "author": "piratezoro9",
       "supportedTypes": ["movie", "tv"],
-      "filename": "providers/cinestream.js",
+      "filename": "providers/cinetv.js",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
-      "logo": "https://i.postimg.cc/0NhjWWqT/cinestream.png",
+      "logo": "https://i.postimg.cc/W1fmh5C9/cinetv.png",
       "contentLanguage": ["en", "hi"]
     },
     {
