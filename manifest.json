@@ -623,18 +623,18 @@
       "contentLanguage": ["en"]
     },
     {
-      "id": "streamflix",
-      "name": "StreamFlix",
+      "id": "einthusan",
+      "name": "Einthustan",
       "description": "1080p Movies in Multi-Lang",
-      "version": "2.0.0",
-      "author": "Kabir",
+      "version": "1.0.0",
+      "author": "✮☆[D3ADLY]☆✮",
       "supportedTypes": ["movie", "tv"],
-      "filename": "providers/streamflix.js",
+      "filename": "providers/einthusan.js",
       "enabled": true,
       "hasSettings": true,
       "formats": ["mp4", "m3u8"],
-      "logo": "https://i.postimg.cc/4yVjQjpH/streamflix.png",
-      "contentLanguage": ["en", "hi", "ta"]
+      "logo": "",
+      "contentLanguage": ["hi", "ta", "te", "ba"]
     },
     {
       "id": "toflix",
