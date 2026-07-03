@@ -87,20 +87,6 @@
       "contentLanguage": ["en", "es"]
     },
     {
-      "id": "moviebox",
-      "name": "MovieBox",
-      "description": "MovieBox - Hindi, Tamil, Telugu & English Movies/Series with multi-quality streams",
-      "version": "1.0.1",
-      "author": "Xyr0nX",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/moviebox.js",
-      "enabled": true,
-      "hasSettings": true,
-      "formats": ["mp4", "m3u8"],
-      "logo": "https://i.postimg.cc/TPwkfqHh/moviebox.png",
-      "contentLanguage": ["en", "hi", "ta", "te"]
-    },
-    {
       "id": "movix",
       "name": "Movix VF",
       "description": "Movies and TV series in English & French (dubbed/subtitled)",
@@ -143,20 +129,6 @@
       "contentLanguage": ["en", "hi", "ta", "te"]
     },
     {
-      "id": "peachify",
-      "name": "🍑 Peachify",
-      "description": "Streams from peachify.top — 3 server sources (MovieBox/Holly/Air) via Cloudflare Workers with AES-256-GCM decryption",
-      "version": "1.0.0",
-      "author": "piratezoro9",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/peachify.js",
-      "enabled": true,
-      "hasSettings": true,
-      "formats": ["m3u8", "mp4"],
-      "logo": "https://i.postimg.cc/tCz8CDH3/peachify.png",
-      "contentLanguage": ["en", "hi", "te", "ta", "pt"]
-    },
-    {
       "id": "purstream",
       "name": "Purstream",
       "description": "Films and series in French (VF) / subtitled French (VOSTFR) / multi-language (MULTI) from purstream.art.",
@@ -183,6 +155,19 @@
       "formats": ["mp4", "m3u8"],
       "logo": "https://i.postimg.cc/yNxJYqkv/toflix.png",
       "contentLanguage": ["en", "fr"]
+    },
+    {
+      "id": "watch32",
+      "name": "Watch32",
+      "description": "Auto-generated description for Watch32",
+      "version": "1.0.0",
+      "author": "Michat88",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/watch32.js",
+      "enabled": true,
+      "formats": ["mp4", "m3u8"],
+      "logo": "https://via.placeholder.com/150",
+      "contentLanguage": ["en"]
     }
   ]
 }
