@@ -162,12 +162,17 @@
       "description": "Auto-generated description for Watch32",
       "version": "1.0.0",
       "author": "Michat88",
-      "supportedTypes": ["movie", "tv"],
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
       "filename": "providers/watch32.js",
       "enabled": true,
-      "formats": ["mp4", "m3u8"],
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
       "logo": "https://via.placeholder.com/150",
-      "contentLanguage": ["en"]
-    }
-  ]
-}
+      "contentLanguage": [
+        "en"
+      }
